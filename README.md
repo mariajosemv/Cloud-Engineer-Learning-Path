@@ -11,8 +11,7 @@ Cool resources:
 
 Flashcards:
 
-- ☁️ [Cloud Computing Fundamentals](./Cloud_Computing_Fundamentals/notes.md)
-- ☁️ Google Cloud Fundamentals
-- ☁️ Account Setup
-- ☁️ Identity and Access Management
-- ☁️ Networking Services
+- ☁️ [Google Cloud Computing Fundamentals](./Cloud_Computing_Fundamentals/notes.md)
+- ☁️ [Account Setup](./Account_Setup/notes.md)
+- ☁️ [Identity and Access Management](./Identity_and_Access_Management/notes.md)
+- ☁️ [Networking Services]()
