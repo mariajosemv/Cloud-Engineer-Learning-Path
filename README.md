@@ -14,4 +14,4 @@ Flashcards:
 - ☁️ [Google Cloud Computing Fundamentals](./Cloud_Computing_Fundamentals/notes.md)
 - ☁️ [Account Setup](./Account_Setup/notes.md)
 - ☁️ [Identity and Access Management](./Identity_and_Access_Management/notes.md)
-- ☁️ [Networking Services]()
+- ☁️ [Networking Services](./Networking_Services/notes.md)
