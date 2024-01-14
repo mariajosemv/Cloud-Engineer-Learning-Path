@@ -1,4 +1,4 @@
-# CloudEngineer Learning Path
+# Cloud Engineer Learning Path
 
 Main resource: 
 
@@ -8,3 +8,11 @@ Cool resources:
 
 - [Networking fundamentals by LearnCantrill](https://youtube.com/playlist?list=PLTk5ZYSbd9Mi_ya5tVFD8NFfU1YZOyml1&si=SIkGgzuZg-Og7URX)
 
+
+Flashcards:
+
+- ☁️ [Cloud Computing Fundamentals](./Cloud_Computing_Fundamentals/notes.md)
+- ☁️ Google Cloud Fundamentals
+- ☁️ Account Setup
+- ☁️ Identity and Access Management
+- ☁️ Networking Services
